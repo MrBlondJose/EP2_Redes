@@ -1,0 +1,6 @@
+- Reescrever funções para facilitar manipulações com os objetos (laços)
+- Adaptar códigos para Ipv6
+- Entender como visualizar (print ou NetAnim) as routing tables
+- Entender como aplicar o RIP (estudar exemplo)
+- criar topologias para teste
+- testar as topologias
